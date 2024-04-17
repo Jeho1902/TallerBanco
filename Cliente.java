@@ -1,7 +1,7 @@
 // Clase Cliente
 class Cliente {
-    private String cedula;
-    private String nombre;
+    public String cedula;
+    public String nombre;
 
     public Cliente(String cedula, String nombre) {
         this.cedula = cedula;
